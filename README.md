@@ -15,6 +15,7 @@
 
 ### About Me...
 
+I am a data scientist and machine learning engineer.
 - 🔭 I’m currently working on a number of projects as seen in my repos.
 - 🌱 I’m currently learning Data science and machine learning
 - 👯 I’m looking to collaborate on open source projects in Python.
