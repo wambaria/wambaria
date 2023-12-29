@@ -14,6 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=wambaria&style=flat-square&color=blue" alt=""/>
 
 ### About Me...
+
 - 🔭 I’m currently working on a number of projects as seen in my repos.
 - 🌱 I’m currently learning Data science and machine learning
 - 👯 I’m looking to collaborate on open source projects in Python.
