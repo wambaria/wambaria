@@ -1,5 +1,6 @@
-### Hi there 👋
-### I'm John.
+### Hi there, 👋
+
+### John here.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/john-wambaria/">
